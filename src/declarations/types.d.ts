@@ -152,7 +152,7 @@ declare module "@transistorsoft/capacitor-background-geolocation" {
 	/**
 	* Desired HTTP method to use when uploading data to your configured [[Config.url]].
 	*/
-	type HttpMethod = "POST" | "PUT" | "OPTIONS";
+	type HttpMethod = "POST" | "PUT" | "OPTIONS" | "PATCH";
 
 	type PersistMode = -1 | 0 | 1 | 2;
 
