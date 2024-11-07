@@ -1,5 +1,35 @@
 # Change Log
 
+## [6.1.2] &mdash; 2024-10-23
+* [iOS] Fix bug with `triggerActivites` preventing motion-triggering in iOS simulator with simulated location.
+
+## [6.1.1] &mdash; 2024-10-21
+* [Android] Implement `Service.onTimeout` to handle `foregroundServiceType="shortService"` timeouts.
+* [iOS] Add new `Config.activityType` `ACTIVITY_TYPE_AIRBORNE`.
+* [iOS] Implement `Config.triggerActivities` for iOS.
+* [Android] Guard against `NullPointerException` receiving a null location in `PolygonGeofenceService` event.
+* [Android] Address possible leak of `Activity` reference when terminating the app.  Ensure internal reference to `Activity` is nullified when app is terminated.
+* [Android] Add improvements to Android geofencing-only mode with `goefenceModeHighAccuracy: true` where motion-activity updates disabled.
+* [Android] Add error-checking in polygon-geofencing to handle a possible `NullPointerException`.
+* [iOS] Fix broken linking to Settings screen in `locationAuthorizationAlert` on iOS 18.
+
+## [6.1.0] &mdash; 2024-09-04
+* [iOS] Fix bug in iOS *Polygon Geofencing* when running in geofences-only mode (`.startGeofences`).  iOS would mistakenly turn off location updates exactly 3 samples into the containing circular geofence of a polygon.
+* Implement `notifyOnDwell` for polygon-geofences.
+
+## [6.0.3] &mdash; 2024-06-30
+* Fix `uploadLog` method.  Javascript layer was mistakenly executing `emailLog` instead.
+
+## [6.0.2] &mdash; 2024-06-12
+* [Android] Remove permission `FOREGROUND_SERVICE_HEALTH`.  It turns out that this permission is no longer required whe
+n the `ActivityRecognitionServivce` is defined with a `foregroundServiceType="shortservice"`, instead of `"health"`, which allows a background
+-launched foreground-service to stay active for up to 3 minutes, which is sufficient for the `ActivityRecognitionServic
+e`, which typically stays activated only for a few milliseconds.
+* [Android] Fix "Multiple geofence events triggered for a single geofence registration when registered individually".
+
+## [6.0.1]  &mdash; 2024-05-14
+* [Android] Fix bug in .getCurrentPosition not returning or throwing an error in a condition where Network OFF and GPS ON.
+
 ## [6.0.0] &mdash; 2024-04-26
 * Ugrade to Capacitor v6.
 

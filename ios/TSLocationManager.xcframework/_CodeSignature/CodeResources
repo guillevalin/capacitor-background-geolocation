@@ -30,7 +30,7 @@
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/Headers/SOMotionDetector.h</key>
 		<data>
-		He905T3H+v9zlWr1obquQPbaMIs=
+		tBwhx5UrtJp2mGmzW9ya7Xscc6E=
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/Headers/SQLQuery.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/Headers/TSConfig.h</key>
 		<data>
-		HotC410Ia5xEy+9frQnhDFNNZyM=
+		7tHtxQ+QSMcmeq/swuOasSEg1os=
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/Headers/TSConnectivityChangeEvent.h</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/Headers/TSGeofenceEvent.h</key>
 		<data>
-		fziY6G+qUYbPfZdP2JTEfg3Oqpw=
+		Co/WjujQjN6rVCIALtUQa75lTf8=
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/Headers/TSGeofenceManager.h</key>
 		<data>
-		L0Sw7IQVlaKNK+gs0njVL6hN02s=
+		q6REjlZdHI/Z1NxhQBGNl5S2uGY=
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/Headers/TSGeofencesChangeEvent.h</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/Headers/TSLocationManager.h</key>
 		<data>
-		X2+HcvWlzuI9RHOY/vflS6WjcVg=
+		IkhDXVe/cBSr9qi61wrXldiKyq0=
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/Headers/TSPowerSaveChangeEvent.h</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/Info.plist</key>
 		<data>
-		fGRqDdF0PjWDc7CcTtTIaXpaSMs=
+		ui3J7XnvnbTtcDmueUsklM6sG1Y=
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/Miniball/Miniball.hpp</key>
 		<data>
@@ -154,11 +154,11 @@
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/TSLocationManager</key>
 		<data>
-		7EhTwMdD1KLOp3WQoX7IW2CbHIE=
+		OvM7gLH+SAYzxp373AubGh1dQnw=
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		LPIFIQVlS4b8AxMPLi1g4CexyZs=
+		I0Y5xgE4G+H5iF9lnz51rbvpIe4=
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -166,15 +166,15 @@
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		Y4S2gUnbm1wwjD0EnDP5zBtcrJc=
+		A4oEP0Y7aKd/K8hSOrRz0gojcDM=
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/_CodeSignature/CodeResources</key>
 		<data>
-		r+M9wB0Oyu8Ovmf378WP2HigXnM=
+		2RNo0gU/59C13h3KdenH/4am3yQ=
 		</data>
 		<key>ios-arm64/TSLocationManager.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		JIUydlr840DWmKKz7Kf83cNCQEI=
+		MRjawYwH4okjBuzPAl2DdGnRPW4=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Headers/AtomicBoolean.h</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Headers/SOMotionDetector.h</key>
 		<data>
-		He905T3H+v9zlWr1obquQPbaMIs=
+		tBwhx5UrtJp2mGmzW9ya7Xscc6E=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Headers/SQLQuery.h</key>
 		<data>
@@ -226,7 +226,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Headers/TSConfig.h</key>
 		<data>
-		HotC410Ia5xEy+9frQnhDFNNZyM=
+		7tHtxQ+QSMcmeq/swuOasSEg1os=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Headers/TSConnectivityChangeEvent.h</key>
 		<data>
@@ -250,11 +250,11 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Headers/TSGeofenceEvent.h</key>
 		<data>
-		fziY6G+qUYbPfZdP2JTEfg3Oqpw=
+		Co/WjujQjN6rVCIALtUQa75lTf8=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Headers/TSGeofenceManager.h</key>
 		<data>
-		L0Sw7IQVlaKNK+gs0njVL6hN02s=
+		q6REjlZdHI/Z1NxhQBGNl5S2uGY=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Headers/TSGeofencesChangeEvent.h</key>
 		<data>
@@ -278,7 +278,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Headers/TSLocationManager.h</key>
 		<data>
-		X2+HcvWlzuI9RHOY/vflS6WjcVg=
+		IkhDXVe/cBSr9qi61wrXldiKyq0=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Headers/TSPowerSaveChangeEvent.h</key>
 		<data>
@@ -314,7 +314,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Resources/Info.plist</key>
 		<data>
-		d4816vhmuMSHoFhMeIFaU6Fg5n4=
+		aoYo15GUlBJIcAJWALq37OtVNCk=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Resources/Miniball/Miniball.hpp</key>
 		<data>
@@ -326,11 +326,11 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/TSLocationManager</key>
 		<data>
-		ATN/wtDYMy5EaizU7ipa9VLIeWw=
+		7XnGcdCJwhiBe5ByGF+lwQvX1ig=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		bYz3++90sQw2HopUIX4u8sZgif4=
+		8HUe6AAHNI2kLb14DxVuebo9e/c=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -338,15 +338,15 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		cJZ8BgK111Jn2wQS9yfpuD4imTk=
+		KxZtv12i/jKZJnfCoxU9nxgOC/I=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/_CodeSignature/CodeResources</key>
 		<data>
-		K31AMTf0BJW0Yz+DTjk6J303ARU=
+		UvbrGkQ1C3ngswljzE1Aq7FbAGI=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		gLD0Gbh6LEAC4/JOu9wMgllNelw=
+		ASYghzaaQWd2+tvf1KOa++uY68o=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Headers/AtomicBoolean.h</key>
 		<data>
@@ -374,7 +374,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Headers/SOMotionDetector.h</key>
 		<data>
-		He905T3H+v9zlWr1obquQPbaMIs=
+		tBwhx5UrtJp2mGmzW9ya7Xscc6E=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Headers/SQLQuery.h</key>
 		<data>
@@ -398,7 +398,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Headers/TSConfig.h</key>
 		<data>
-		HotC410Ia5xEy+9frQnhDFNNZyM=
+		7tHtxQ+QSMcmeq/swuOasSEg1os=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Headers/TSConnectivityChangeEvent.h</key>
 		<data>
@@ -422,11 +422,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Headers/TSGeofenceEvent.h</key>
 		<data>
-		fziY6G+qUYbPfZdP2JTEfg3Oqpw=
+		Co/WjujQjN6rVCIALtUQa75lTf8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Headers/TSGeofenceManager.h</key>
 		<data>
-		L0Sw7IQVlaKNK+gs0njVL6hN02s=
+		q6REjlZdHI/Z1NxhQBGNl5S2uGY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Headers/TSGeofencesChangeEvent.h</key>
 		<data>
@@ -450,7 +450,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Headers/TSLocationManager.h</key>
 		<data>
-		X2+HcvWlzuI9RHOY/vflS6WjcVg=
+		IkhDXVe/cBSr9qi61wrXldiKyq0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Headers/TSPowerSaveChangeEvent.h</key>
 		<data>
@@ -482,7 +482,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Info.plist</key>
 		<data>
-		nUtA4kXT1L8G3cbyS8SfciSSpik=
+		npu/dlksd9TSsIlJZw/dnM+/CPQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Miniball/Miniball.hpp</key>
 		<data>
@@ -498,11 +498,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/TSLocationManager</key>
 		<data>
-		svzdzgQZe0LwdvPgqJedPuGNuEs=
+		ClolpN2ygfnpec4u8HRrU8de4kY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		9p28JVNUw1P2H+ma7nxVuH3ELFQ=
+		cUJ0Fnhk4RbCjQD8u+DPbMXKtYQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -510,11 +510,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		sc6C7M9KDwDlOGrOYy8X4aFAWD8=
+		4qL9gAZQkBGkccLQJVFO+2hIsmA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/_CodeSignature/CodeResources</key>
 		<data>
-		NldUKzE6lyAWo8phtuCJfThoYKo=
+		aDL5b/b7yooyIMee/hW+AdMCgHM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/_CodeSignature/CodeSignature</key>
 		<data>
@@ -593,11 +593,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			He905T3H+v9zlWr1obquQPbaMIs=
+			tBwhx5UrtJp2mGmzW9ya7Xscc6E=
 			</data>
 			<key>hash2</key>
 			<data>
-			/1mxRYF+wAKdpuWkyINBwOyf3NJ4GWwLxgnR1O9Gfgk=
+			Rn9bB/g6eB/i2vQwdn+36w+khYfKnOWgDhBCYVejVLs=
 			</data>
 		</dict>
 		<key>ios-arm64/TSLocationManager.framework/Headers/SQLQuery.h</key>
@@ -659,11 +659,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HotC410Ia5xEy+9frQnhDFNNZyM=
+			7tHtxQ+QSMcmeq/swuOasSEg1os=
 			</data>
 			<key>hash2</key>
 			<data>
-			zZoiE2fgj6WjkU1iDLS7nTJWjiwhbWl3TjK38xJY+zI=
+			aF3RyK/cpVVROnv/Cg0JchfA2ehdHMS6CswuPWtNAxA=
 			</data>
 		</dict>
 		<key>ios-arm64/TSLocationManager.framework/Headers/TSConnectivityChangeEvent.h</key>
@@ -725,22 +725,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fziY6G+qUYbPfZdP2JTEfg3Oqpw=
+			Co/WjujQjN6rVCIALtUQa75lTf8=
 			</data>
 			<key>hash2</key>
 			<data>
-			z32/ulcyyxS9cqtMmmr6QTiq1eY8TCIG5cy+91gnF48=
+			4WOSq5FaA0hPaz2oe9gVB2A2f0YAeko6v6LN+/aE1TA=
 			</data>
 		</dict>
 		<key>ios-arm64/TSLocationManager.framework/Headers/TSGeofenceManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L0Sw7IQVlaKNK+gs0njVL6hN02s=
+			q6REjlZdHI/Z1NxhQBGNl5S2uGY=
 			</data>
 			<key>hash2</key>
 			<data>
-			EJZnCC5PZkw2GaxqPVLZV2eLpW/G2GgEJM7nFYby1II=
+			oYEDI+xEbSu/W59P2yhuNEKzJmsp1vHYuQ1/zFpM9O4=
 			</data>
 		</dict>
 		<key>ios-arm64/TSLocationManager.framework/Headers/TSGeofencesChangeEvent.h</key>
@@ -802,11 +802,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X2+HcvWlzuI9RHOY/vflS6WjcVg=
+			IkhDXVe/cBSr9qi61wrXldiKyq0=
 			</data>
 			<key>hash2</key>
 			<data>
-			TrpWKCiP4P2pNAUvdax23S6/7NBBVDzbhT2IkAhBd7U=
+			giXbpxvmWWNh5onQoi8vOx5cR+S0GD/x6xNytW3M/+w=
 			</data>
 		</dict>
 		<key>ios-arm64/TSLocationManager.framework/Headers/TSPowerSaveChangeEvent.h</key>
@@ -890,11 +890,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fGRqDdF0PjWDc7CcTtTIaXpaSMs=
+			ui3J7XnvnbTtcDmueUsklM6sG1Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			TcepSmmsR0r/wI/DKGrA3u2mly2Tcq3wfTzZHEYLJZ0=
+			qajYiu04Hp7yPwZ71SVX0nE0+NdBxu7lIbf3AAgAFdw=
 			</data>
 		</dict>
 		<key>ios-arm64/TSLocationManager.framework/Miniball/Miniball.hpp</key>
@@ -934,22 +934,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7EhTwMdD1KLOp3WQoX7IW2CbHIE=
+			OvM7gLH+SAYzxp373AubGh1dQnw=
 			</data>
 			<key>hash2</key>
 			<data>
-			zN68wW8QvOe1TGM6pB99FcqyjQWyCtOtFXzkjI2ZC4A=
+			i7svgu8xytuElpLUr3jEVTJmKl3++NzjhH59vtMWOoM=
 			</data>
 		</dict>
 		<key>ios-arm64/TSLocationManager.framework/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LPIFIQVlS4b8AxMPLi1g4CexyZs=
+			I0Y5xgE4G+H5iF9lnz51rbvpIe4=
 			</data>
 			<key>hash2</key>
 			<data>
-			EpKwxwhUYT5OQ3g6s1Oq7dYNSSkXpLD/VtZvHJByAqM=
+			I7m7Vxgjn2KcQMgHk2FjYb8hQ1sG4fn0lu0OtYjdip8=
 			</data>
 		</dict>
 		<key>ios-arm64/TSLocationManager.framework/_CodeSignature/CodeRequirements</key>
@@ -967,33 +967,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Y4S2gUnbm1wwjD0EnDP5zBtcrJc=
+			A4oEP0Y7aKd/K8hSOrRz0gojcDM=
 			</data>
 			<key>hash2</key>
 			<data>
-			qRUwb1FMUZ6Pwok+7HNYXQ9wW6HBUeeSTkPvKBx1qOs=
+			sBUlPoWDOh1KIoeq9hNWd8Zeu5NtBJbdAbkUlCFnArA=
 			</data>
 		</dict>
 		<key>ios-arm64/TSLocationManager.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			r+M9wB0Oyu8Ovmf378WP2HigXnM=
+			2RNo0gU/59C13h3KdenH/4am3yQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			BYUEdQvA0OzJ868txWw8s2LiSxTkIMyJankDTmPDDTE=
+			lTzrgC2PiD8XQ60hbbZuDRFlgX7zPnkxuKxOglcviB0=
 			</data>
 		</dict>
 		<key>ios-arm64/TSLocationManager.framework/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JIUydlr840DWmKKz7Kf83cNCQEI=
+			MRjawYwH4okjBuzPAl2DdGnRPW4=
 			</data>
 			<key>hash2</key>
 			<data>
-			O+HYVwbfk7l8Q5InxzhdEcYwKvms2dyDJAeMm271UfU=
+			6OO9hP4jloCanubCOdH3nP5dxhnz8lNNAHgQJSWSPxw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Headers/AtomicBoolean.h</key>
@@ -1066,11 +1066,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			He905T3H+v9zlWr1obquQPbaMIs=
+			tBwhx5UrtJp2mGmzW9ya7Xscc6E=
 			</data>
 			<key>hash2</key>
 			<data>
-			/1mxRYF+wAKdpuWkyINBwOyf3NJ4GWwLxgnR1O9Gfgk=
+			Rn9bB/g6eB/i2vQwdn+36w+khYfKnOWgDhBCYVejVLs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Headers/SQLQuery.h</key>
@@ -1132,11 +1132,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HotC410Ia5xEy+9frQnhDFNNZyM=
+			7tHtxQ+QSMcmeq/swuOasSEg1os=
 			</data>
 			<key>hash2</key>
 			<data>
-			zZoiE2fgj6WjkU1iDLS7nTJWjiwhbWl3TjK38xJY+zI=
+			aF3RyK/cpVVROnv/Cg0JchfA2ehdHMS6CswuPWtNAxA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Headers/TSConnectivityChangeEvent.h</key>
@@ -1198,22 +1198,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fziY6G+qUYbPfZdP2JTEfg3Oqpw=
+			Co/WjujQjN6rVCIALtUQa75lTf8=
 			</data>
 			<key>hash2</key>
 			<data>
-			z32/ulcyyxS9cqtMmmr6QTiq1eY8TCIG5cy+91gnF48=
+			4WOSq5FaA0hPaz2oe9gVB2A2f0YAeko6v6LN+/aE1TA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Headers/TSGeofenceManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L0Sw7IQVlaKNK+gs0njVL6hN02s=
+			q6REjlZdHI/Z1NxhQBGNl5S2uGY=
 			</data>
 			<key>hash2</key>
 			<data>
-			EJZnCC5PZkw2GaxqPVLZV2eLpW/G2GgEJM7nFYby1II=
+			oYEDI+xEbSu/W59P2yhuNEKzJmsp1vHYuQ1/zFpM9O4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Headers/TSGeofencesChangeEvent.h</key>
@@ -1275,11 +1275,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X2+HcvWlzuI9RHOY/vflS6WjcVg=
+			IkhDXVe/cBSr9qi61wrXldiKyq0=
 			</data>
 			<key>hash2</key>
 			<data>
-			TrpWKCiP4P2pNAUvdax23S6/7NBBVDzbhT2IkAhBd7U=
+			giXbpxvmWWNh5onQoi8vOx5cR+S0GD/x6xNytW3M/+w=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Headers/TSPowerSaveChangeEvent.h</key>
@@ -1374,11 +1374,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d4816vhmuMSHoFhMeIFaU6Fg5n4=
+			aoYo15GUlBJIcAJWALq37OtVNCk=
 			</data>
 			<key>hash2</key>
 			<data>
-			w2riNQCwvXlNv3QjR6oTB6zuNJil1F71RBupCaMpyVk=
+			mTC8WzwuDo9ZCDZCtjHoKyocXs7Y6YkB8W4uvjl/miM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/Resources/Miniball/Miniball.hpp</key>
@@ -1407,22 +1407,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ATN/wtDYMy5EaizU7ipa9VLIeWw=
+			7XnGcdCJwhiBe5ByGF+lwQvX1ig=
 			</data>
 			<key>hash2</key>
 			<data>
-			fOvZ+WOqPd7BHCGsh8Q96tNd4MmWKEWUJM2Jkq9Fxtc=
+			Jd1wlUD4+mjjxuPTp0zYMQylbifMPFqnSVI4gEbAlWE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bYz3++90sQw2HopUIX4u8sZgif4=
+			8HUe6AAHNI2kLb14DxVuebo9e/c=
 			</data>
 			<key>hash2</key>
 			<data>
-			srsxx/3JDdtpQQMgD3fdg18cLsTvSJcJGATldwoBH3s=
+			rUcEdUk9esFKrKtd8a6Uf+A4KcCkxZoiatFpi0zp2t4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/_CodeSignature/CodeRequirements</key>
@@ -1440,33 +1440,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cJZ8BgK111Jn2wQS9yfpuD4imTk=
+			KxZtv12i/jKZJnfCoxU9nxgOC/I=
 			</data>
 			<key>hash2</key>
 			<data>
-			MxNXP0QuA9ElgQd+asZYEpo2tOnSt3pkc4hnXoENS3Q=
+			/5XT0j/dcCZ7y6MvXAQo6e2Ef1xaKexXsZgAoGWIBwc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K31AMTf0BJW0Yz+DTjk6J303ARU=
+			UvbrGkQ1C3ngswljzE1Aq7FbAGI=
 			</data>
 			<key>hash2</key>
 			<data>
-			y8N43rh/SCIDj/Dt+hm0bqrsuqbvxWBnmLZILaEeYb4=
+			KetG92HKJiCjfBj5XIslNHECCbMiDUlFIZUJdGu8G60=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/TSLocationManager.framework/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gLD0Gbh6LEAC4/JOu9wMgllNelw=
+			ASYghzaaQWd2+tvf1KOa++uY68o=
 			</data>
 			<key>hash2</key>
 			<data>
-			LqGHISwCmUZEXIPJDuDM0chQWS63xtwhK2nJVcHDj+c=
+			oV1hEFcbh03he4oOVtwR5WtHbni6TlR0hRnk23TemG8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Headers/AtomicBoolean.h</key>
@@ -1539,11 +1539,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			He905T3H+v9zlWr1obquQPbaMIs=
+			tBwhx5UrtJp2mGmzW9ya7Xscc6E=
 			</data>
 			<key>hash2</key>
 			<data>
-			/1mxRYF+wAKdpuWkyINBwOyf3NJ4GWwLxgnR1O9Gfgk=
+			Rn9bB/g6eB/i2vQwdn+36w+khYfKnOWgDhBCYVejVLs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Headers/SQLQuery.h</key>
@@ -1605,11 +1605,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HotC410Ia5xEy+9frQnhDFNNZyM=
+			7tHtxQ+QSMcmeq/swuOasSEg1os=
 			</data>
 			<key>hash2</key>
 			<data>
-			zZoiE2fgj6WjkU1iDLS7nTJWjiwhbWl3TjK38xJY+zI=
+			aF3RyK/cpVVROnv/Cg0JchfA2ehdHMS6CswuPWtNAxA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Headers/TSConnectivityChangeEvent.h</key>
@@ -1671,22 +1671,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fziY6G+qUYbPfZdP2JTEfg3Oqpw=
+			Co/WjujQjN6rVCIALtUQa75lTf8=
 			</data>
 			<key>hash2</key>
 			<data>
-			z32/ulcyyxS9cqtMmmr6QTiq1eY8TCIG5cy+91gnF48=
+			4WOSq5FaA0hPaz2oe9gVB2A2f0YAeko6v6LN+/aE1TA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Headers/TSGeofenceManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L0Sw7IQVlaKNK+gs0njVL6hN02s=
+			q6REjlZdHI/Z1NxhQBGNl5S2uGY=
 			</data>
 			<key>hash2</key>
 			<data>
-			EJZnCC5PZkw2GaxqPVLZV2eLpW/G2GgEJM7nFYby1II=
+			oYEDI+xEbSu/W59P2yhuNEKzJmsp1vHYuQ1/zFpM9O4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Headers/TSGeofencesChangeEvent.h</key>
@@ -1748,11 +1748,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X2+HcvWlzuI9RHOY/vflS6WjcVg=
+			IkhDXVe/cBSr9qi61wrXldiKyq0=
 			</data>
 			<key>hash2</key>
 			<data>
-			TrpWKCiP4P2pNAUvdax23S6/7NBBVDzbhT2IkAhBd7U=
+			giXbpxvmWWNh5onQoi8vOx5cR+S0GD/x6xNytW3M/+w=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Headers/TSPowerSaveChangeEvent.h</key>
@@ -1836,11 +1836,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nUtA4kXT1L8G3cbyS8SfciSSpik=
+			npu/dlksd9TSsIlJZw/dnM+/CPQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			9nsQAVAMVgWM3b8gCPOA+Ytc102TgoGueuPYt0KkFME=
+			L0vEsTywv62UAVO+VJaW86QZufSDGD3KSSLQaz6bnUw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/Miniball/Miniball.hpp</key>
@@ -1880,22 +1880,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			svzdzgQZe0LwdvPgqJedPuGNuEs=
+			ClolpN2ygfnpec4u8HRrU8de4kY=
 			</data>
 			<key>hash2</key>
 			<data>
-			VS9zLT68DveXFjwU50CAB7OXgtokwt699jcba40RL5A=
+			V7M5f0Qp+lGb+9uX7QjPrpxVJHCUncPq/pKCMvSD/fA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9p28JVNUw1P2H+ma7nxVuH3ELFQ=
+			cUJ0Fnhk4RbCjQD8u+DPbMXKtYQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			KrozeYu7vrL7pafkIMqVeuugfUetkHR27FnOSfW/Bqo=
+			9Xq4xjBjmrrbgeNcXUas5HKOoR40MCGx1QWd6khJ/TM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/_CodeSignature/CodeRequirements</key>
@@ -1913,22 +1913,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sc6C7M9KDwDlOGrOYy8X4aFAWD8=
+			4qL9gAZQkBGkccLQJVFO+2hIsmA=
 			</data>
 			<key>hash2</key>
 			<data>
-			q0YX9aDY0EufYFLl5uJcilb969gDmMJH65j0pvdfJNw=
+			aXzMDlc3yK/3nC33Rotg53fIq5Le7MOgQyHJuZs4oEg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NldUKzE6lyAWo8phtuCJfThoYKo=
+			aDL5b/b7yooyIMee/hW+AdMCgHM=
 			</data>
 			<key>hash2</key>
 			<data>
-			aJsDUKi53nCUhOrTrLVk8iCc8D/lrqjZq58E1iys5Eg=
+			jyNV/T7DT9rE/1PiKYGOXn3DBx+VzoXs/mSfzvGymyo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TSLocationManager.framework/_CodeSignature/CodeSignature</key>
