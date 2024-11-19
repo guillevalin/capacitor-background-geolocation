@@ -1,5 +1,16 @@
 # Change Log
 
+## 6.1.4 &mdash; 2024-11=12
+* [Android] Remove enforcement of minimum Geofence radius `150`
+* [Android] Fix issue with `TSLocationManagerActivity` (responsible for showing location permission / authorization dialogs).  Minimizing the app with an active permission dialog would cause the app's `MainActivity` to terminate on some devices.
+
+## 6.1.3 &mdash; 2024-11-08
+* [Android] Fix reported "screen flickering" issue on some devices when SDK requests permissions.
+* [Android] Address Android synchronization issue with `TSLocation.toMap`.
+* [iOS] Address crash in `TSConfig` due to "uncaught exception NSInvalidArgumentException"
+* [Android] Change `foregroundServiceType` on `LocationRequestService` from `shortService` -> `location`.
+* [iOS] Address inconsistent location-tracking performance on iOS.
+
 ## [6.1.2] &mdash; 2024-10-23
 * [iOS] Fix bug with `triggerActivites` preventing motion-triggering in iOS simulator with simulated location.
 
