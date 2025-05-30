@@ -1,6 +1,19 @@
 # Change Log
 
-## 6.1.4 &mdash; 2024-11=12
+## 7.0.3 &mdash; 2025-02-13
+* [Android] Re-compile library with JDK 17
+* [Android] Fix `ConcurrentModificationException` in `StopTimeoutEvaluator`.
+
+## 7.0.2 &mdash; 2025-02-07
+* Update `peerDependencies` in `package.json`.
+
+## 7.0.1 &mdash; 2025-02-06
+* Upgrade to Capacitor 7
+
+## 6.1.5 &mdash; 2024-12-03
+* [Android] Remove Android Setup Step for `proguard-rules.pro`.  The plugin is able to automatically apply its `proguard-rules`.
+
+## 6.1.4 &mdash; 2024-11-12
 * [Android] Remove enforcement of minimum Geofence radius `150`
 * [Android] Fix issue with `TSLocationManagerActivity` (responsible for showing location permission / authorization dialogs).  Minimizing the app with an active permission dialog would cause the app's `MainActivity` to terminate on some devices.
 
